@@ -9,6 +9,11 @@ A React application that allows users to view profiles and their locations on an
 - Search and filter profiles
 - Responsive design for all devices
 - Show profile locations on the map
+  
+  ## ScreenShots
+  ![image](https://github.com/user-attachments/assets/40329aae-81c6-48ab-a888-40340b9f1081)
+![image](https://github.com/user-attachments/assets/54fbf7f3-dc00-4d41-89de-7305471ad59d)
+
 
 ## Prerequisites
 
